@@ -136,3 +136,5 @@ module "vm_username" {
   secret_value        = "devopsadmin"
 }
 
+
+
